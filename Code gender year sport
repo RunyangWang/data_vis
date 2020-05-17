@@ -1,0 +1,169 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "A population pyramid showing gender distribution in Olympic sports from 1896 to 2016.",
+  "height": 800,
+  "title": {
+    "text": "The number of males and females in each sport of 120 years of Summer Olympics",
+    "frame": "group"
+  },
+  "padding": 5,
+
+  "signals": [
+    { "name": "chartWidth", "value": 300 },
+    { "name": "chartPad", "value": 20 },
+    { "name": "width", "update": "2 * chartWidth + chartPad" },
+    { "name": "year", "value": 2016,
+      "bind": {"input": "range", "min": 1896, "max": 2016, "step": 4} }
+  ],
+
+  "data": [
+    {
+      "name": "population",
+      "url": "https://raw.githubusercontent.com/RunyangWang/data_vis/master/sex%20year%20sport.json"
+    },
+    {
+      "name": "popYear",
+      "source": "population",
+      "transform": [
+        {"type": "filter", "expr": "datum.year == year"}
+      ]
+    },
+    {
+      "name": "males",
+      "source": "popYear",
+      "transform": [
+        {"type": "filter", "expr": "datum.sex == 1 "}
+      ]
+    },
+    {
+      "name": "females",
+      "source": "popYear",
+      "transform": [
+        {"type": "filter", "expr": "datum.sex == 2 "}
+      ]
+    },
+    {
+      "name": "sportGroups",
+      "source": "population",
+      "transform": [
+        { "type": "aggregate", "groupby": ["sport"] }
+      ]
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "y",
+      "type": "band",
+      "range": [{"signal": "height"}, 0],
+      "round": true,
+      "domain": {"data": "sportGroups", "field": "sport"}
+    },
+    {
+      "name": "c",
+      "type": "ordinal",
+      "domain": [1, 2],
+      "range": ["#d5855a", "#6c4e97"]
+    }
+  ],
+
+  "marks": [
+    {
+      "type": "text",
+      "interactive": false,
+      "from": {"data": "sportGroups"},
+      "encode": {
+        "enter": {
+          "x": {"signal": "chartWidth + chartPad / 2"},
+          "y": {"scale": "y", "field": "sport", "band": 0.5},
+          "text": {"field": "sport"},
+          "baseline": {"value": "middle"},
+          "align": {"value": "center"},
+          "fill": {"value": "#000"}
+        }
+      }
+    },
+    {
+      "type": "group",
+
+      "encode": {
+        "update": {
+          "x": {"value": 0},
+          "height": {"signal": "height"}
+        }
+      },
+
+      "scales": [
+        {
+          "name": "x",
+          "type": "linear",
+          "range": [{"signal": "chartWidth"}, 0],
+          "nice": true, "zero": true,
+          "domain": {"data": "population", "field": "athletes"}
+        }
+      ],
+
+      "axes": [
+        {"orient": "bottom", "scale": "x", "format": "s", "title": "Females"}
+      ],
+
+      "marks": [
+        {
+          "type": "rect",
+          "from": {"data": "females"},
+          "encode": {
+            "enter": {
+              "x": {"scale": "x", "field": "athletes"},
+              "x2": {"scale": "x", "value": 0},
+              "y": {"scale": "y", "field": "sport"},
+              "height": {"scale": "y", "band": 1, "offset": -1},
+              "fillOpacity": {"value": 0.6},
+              "fill": {"scale": "c", "field": "sex"}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "group",
+
+      "encode": {
+        "update": {
+          "x": {"signal": "chartWidth + chartPad"},
+          "height": {"signal": "height"}
+        }
+      },
+
+      "scales": [
+        {
+          "name": "x",
+          "type": "linear",
+          "range": [0, {"signal": "chartWidth"}],
+          "nice": true, "zero": true,
+          "domain": {"data": "population", "field": "athletes"}
+        }
+      ],
+
+      "axes": [
+        {"orient": "bottom", "scale": "x", "format": "s", "title": "Males"}
+      ],
+
+      "marks": [
+        {
+          "type": "rect",
+          "from": {"data": "males"},
+          "encode": {
+            "enter": {
+              "x": {"scale": "x", "field": "athletes"},
+              "x2": {"scale": "x", "value": 0},
+              "y": {"scale": "y", "field": "sport"},
+              "height": {"scale": "y", "band": 1, "offset": -1},
+              "fillOpacity": {"value": 0.6},
+              "fill": {"scale": "c", "field": "sex"}
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
