@@ -1,8299 +1,8299 @@
 [
   {
     "year": 1896,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 63
   },
   {
     "year": 1896,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 19
   },
   {
     "year": 1896,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 15
   },
   {
     "year": 1896,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 28
   },
   {
     "year": 1896,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 38
   },
   {
     "year": 1896,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 13
   },
   {
     "year": 1896,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 13
   },
   {
     "year": 1896,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 7
   },
   {
     "year": 1896,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 5
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 23
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 119
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basque Pelota",
     "athletes": 2
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cricket",
     "athletes": 24
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Croquet",
     "athletes": 7
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 72
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 56
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 260
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 35
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Golf",
     "athletes": 12
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 135
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Polo",
     "athletes": 20
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 99
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rugby",
     "athletes": 47
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 95
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 72
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 76
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 19
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tug-Of-War",
     "athletes": 12
   },
   {
     "year": 1900,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 53
   },
   {
     "year": 1900,
-    "sex": "F",
+    "sex": 2,
     "sport": "Croquet",
     "athletes": 3
   },
   {
     "year": 1900,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 2
   },
   {
     "year": 1900,
-    "sex": "F",
+    "sex": 2,
     "sport": "Golf",
     "athletes": 10
   },
   {
     "year": 1900,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 1
   },
   {
     "year": 1900,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 7
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 23
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 116
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 18
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 18
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 5
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 11
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 36
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Golf",
     "athletes": 77
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 121
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Lacrosse",
     "athletes": 36
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Roque",
     "athletes": 4
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 44
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 32
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 36
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tug-Of-War",
     "athletes": 30
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 21
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 5
   },
   {
     "year": 1904,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 42
   },
   {
     "year": 1904,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 6
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 233
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 45
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 24
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 62
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 45
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 104
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 167
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 68
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 43
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 21
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tug-Of-War",
     "athletes": 32
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 13
   },
   {
     "year": 1906,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 36
   },
   {
     "year": 1906,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 6
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 32
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 431
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 42
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 97
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 39
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 131
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 14
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 72
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 325
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 68
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Jeu De Paume",
     "athletes": 11
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Lacrosse",
     "athletes": 24
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Motorboating",
     "athletes": 13
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Polo",
     "athletes": 12
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Racquets",
     "athletes": 7
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 81
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rugby",
     "athletes": 30
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 63
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 215
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 100
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 40
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tug-Of-War",
     "athletes": 40
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 28
   },
   {
     "year": 1908,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 115
   },
   {
     "year": 1908,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 25
   },
   {
     "year": 1908,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 7
   },
   {
     "year": 1908,
-    "sex": "F",
+    "sex": 2,
     "sport": "Motorboating",
     "athletes": 1
   },
   {
     "year": 1908,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 1
   },
   {
     "year": 1908,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 10
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 534
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 123
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 43
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 62
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 185
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 163
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 249
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 32
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 184
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 109
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 284
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 93
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 67
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tug-Of-War",
     "athletes": 16
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 45
   },
   {
     "year": 1912,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 170
   },
   {
     "year": 1912,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 14
   },
   {
     "year": 1912,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 27
   },
   {
     "year": 1912,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 13
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 30
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 509
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 116
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 103
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 35
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 89
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 149
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 14
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 190
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 249
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 51
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 60
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 23
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Polo",
     "athletes": 17
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 136
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rugby",
     "athletes": 31
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 100
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 236
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 92
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 52
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tug-Of-War",
     "athletes": 40
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 101
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 53
   },
   {
     "year": 1920,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 152
   },
   {
     "year": 1920,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 18
   },
   {
     "year": 1920,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 12
   },
   {
     "year": 1920,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 1
   },
   {
     "year": 1920,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 24
   },
   {
     "year": 1920,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 23
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpinism",
     "athletes": 21
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 659
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 39
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 181
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 59
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Curling",
     "athletes": 16
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 139
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 45
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 97
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 215
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 16
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 279
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 72
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 82
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Military Ski Patrol",
     "athletes": 24
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 38
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 30
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Polo",
     "athletes": 24
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 181
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rugby",
     "athletes": 54
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 64
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 258
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 27
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 31
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 118
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 89
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 101
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 107
   },
   {
     "year": 1924,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 229
   },
   {
     "year": 1924,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 26
   },
   {
     "year": 1924,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 25
   },
   {
     "year": 1924,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 13
   },
   {
     "year": 1924,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 1
   },
   {
     "year": 1924,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 51
   },
   {
     "year": 1924,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 35
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 611
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 116
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 144
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 74
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 149
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 38
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 113
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 232
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 23
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 219
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 88
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 137
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 124
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 37
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 35
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 244
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 125
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Skeleton",
     "athletes": 10
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 38
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 40
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 110
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 112
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 94
   },
   {
     "year": 1928,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 166
   },
   {
     "year": 1928,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 95
   },
   {
     "year": 1928,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 23
   },
   {
     "year": 1928,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 27
   },
   {
     "year": 1928,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 28
   },
   {
     "year": 1928,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 56
   },
   {
     "year": 1928,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 2
   },
   {
     "year": 1928,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 72
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpinism",
     "athletes": 2
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 332
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 41
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 85
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 58
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 66
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 17
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 31
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 91
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 18
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 46
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 40
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 48
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 25
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 33
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 152
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 54
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 41
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 34
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 31
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 84
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 41
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 29
   },
   {
     "year": 1932,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 79
   },
   {
     "year": 1932,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 54
   },
   {
     "year": 1932,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 11
   },
   {
     "year": 1932,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 17
   },
   {
     "year": 1932,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 21
   },
   {
     "year": 1932,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 44
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Aeronautics",
     "athletes": 1
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 66
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpinism",
     "athletes": 1
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 678
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 199
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 95
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 179
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 119
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 109
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 175
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 39
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 127
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 270
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 41
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 201
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 111
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 105
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 167
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 173
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 42
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 51
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Polo",
     "athletes": 21
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 314
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 169
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 141
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 48
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 52
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 154
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 142
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 80
   },
   {
     "year": 1936,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 200
   },
   {
     "year": 1936,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 37
   },
   {
     "year": 1936,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpinism",
     "athletes": 1
   },
   {
     "year": 1936,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 98
   },
   {
     "year": 1936,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 30
   },
   {
     "year": 1936,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 41
   },
   {
     "year": 1936,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 43
   },
   {
     "year": 1936,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 64
   },
   {
     "year": 1936,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 3
   },
   {
     "year": 1936,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 94
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 127
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 601
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 287
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 71
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 205
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 100
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 106
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 188
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 39
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 103
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 255
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 27
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 218
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 123
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 187
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 139
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 45
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 39
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 310
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 186
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 188
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Skeleton",
     "athletes": 15
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 49
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 68
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 161
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 156
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 120
   },
   {
     "year": 1948,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 219
   },
   {
     "year": 1948,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 40
   },
   {
     "year": 1948,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 144
   },
   {
     "year": 1948,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 10
   },
   {
     "year": 1948,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 24
   },
   {
     "year": 1948,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 39
   },
   {
     "year": 1948,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 37
   },
   {
     "year": 1948,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 88
   },
   {
     "year": 1948,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 88
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 114
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 776
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 294
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 70
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 249
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 146
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 118
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 215
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 51
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 130
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 249
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 26
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 294
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 185
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 157
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 147
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 51
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 25
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 404
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 224
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 218
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 44
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 67
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 201
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 191
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 142
   },
   {
     "year": 1952,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 244
   },
   {
     "year": 1952,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 52
   },
   {
     "year": 1952,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 187
   },
   {
     "year": 1952,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 13
   },
   {
     "year": 1952,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 20
   },
   {
     "year": 1952,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 25
   },
   {
     "year": 1952,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 4
   },
   {
     "year": 1952,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 37
   },
   {
     "year": 1952,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 37
   },
   {
     "year": 1952,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 134
   },
   {
     "year": 1952,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 3
   },
   {
     "year": 1952,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 118
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 124
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 573
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 169
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 101
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 161
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 103
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 109
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 161
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 33
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 145
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 142
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 27
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 143
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 63
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 173
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 169
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 40
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 36
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 242
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 154
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 156
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 51
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 83
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 136
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 96
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 105
   },
   {
     "year": 1956,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 173
   },
   {
     "year": 1956,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 59
   },
   {
     "year": 1956,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 147
   },
   {
     "year": 1956,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 10
   },
   {
     "year": 1956,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 41
   },
   {
     "year": 1956,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 27
   },
   {
     "year": 1956,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 13
   },
   {
     "year": 1956,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 23
   },
   {
     "year": 1956,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 32
   },
   {
     "year": 1956,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 65
   },
   {
     "year": 1956,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 99
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 82
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 812
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 192
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 30
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 281
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 145
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 88
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 297
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 49
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 151
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 266
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 32
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 235
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 130
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 236
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 152
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 60
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 33
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 410
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 289
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 313
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 45
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 73
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 236
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 150
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 172
   },
   {
     "year": 1960,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 324
   },
   {
     "year": 1960,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 51
   },
   {
     "year": 1960,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 204
   },
   {
     "year": 1960,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 28
   },
   {
     "year": 1960,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 24
   },
   {
     "year": 1960,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 26
   },
   {
     "year": 1960,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 8
   },
   {
     "year": 1960,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 78
   },
   {
     "year": 1960,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 39
   },
   {
     "year": 1960,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 124
   },
   {
     "year": 1960,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 1
   },
   {
     "year": 1960,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 30
   },
   {
     "year": 1960,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 144
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 119
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 782
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 189
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 51
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 81
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 269
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 118
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 113
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 303
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 46
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 103
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 203
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 41
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 214
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 130
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 226
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 270
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 72
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 51
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 37
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 32
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 370
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 224
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 262
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 57
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 91
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 243
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 111
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 137
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 149
   },
   {
     "year": 1964,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 275
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 55
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 236
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 27
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 38
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 34
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 13
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 56
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 47
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 83
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 17
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 1
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 43
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 162
   },
   {
     "year": 1964,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 68
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 136
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 786
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 191
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 72
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 90
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 307
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 155
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 110
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 329
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 45
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 103
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 217
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 46
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 273
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 117
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 253
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 250
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 59
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 48
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 41
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 353
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 251
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 348
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 66
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 86
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 264
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 119
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 162
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 160
   },
   {
     "year": 1968,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 297
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 55
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 243
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 29
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 37
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 36
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 22
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 58
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 50
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 101
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 26
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 3
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 43
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 204
   },
   {
     "year": 1968,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 87
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 93
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 55
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 961
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 190
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 62
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 79
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 354
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 274
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 104
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 359
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 50
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 148
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 234
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 32
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 269
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 113
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 243
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 263
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 208
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 148
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 61
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 59
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 40
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 440
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 323
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 393
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 62
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 67
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 287
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 140
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 176
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 188
   },
   {
     "year": 1972,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 388
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 50
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 40
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 369
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 56
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 48
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 41
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 31
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 65
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 35
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 118
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 22
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 4
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 51
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 245
   },
   {
     "year": 1972,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 91
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 125
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 37
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 703
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 141
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 74
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 92
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 266
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 206
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 113
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 295
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 41
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 111
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 211
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 52
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 202
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 90
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 161
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 172
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 217
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 136
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 68
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 47
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 34
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 388
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 256
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 336
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 62
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 66
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 263
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 120
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 131
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 173
   },
   {
     "year": 1976,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 330
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 56
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 27
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 303
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Basketball",
     "athletes": 72
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 39
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 51
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 39
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 24
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 70
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 53
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 86
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Handball",
     "athletes": 82
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 26
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rowing",
     "athletes": 205
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 1
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 8
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 45
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 208
   },
   {
     "year": 1976,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 96
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 108
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 38
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 694
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 143
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 76
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 78
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 271
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 148
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 85
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 230
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 34
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 59
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 136
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 40
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 256
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 65
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 166
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 96
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 239
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 182
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 54
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 43
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 31
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 313
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 155
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 234
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 55
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 74
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 190
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 114
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 132
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 172
   },
   {
     "year": 1980,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 266
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 66
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 29
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 266
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Basketball",
     "athletes": 72
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 32
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 45
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 33
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 9
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 51
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 44
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 62
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Handball",
     "athletes": 82
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Hockey",
     "athletes": 91
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 26
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rowing",
     "athletes": 157
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 1
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 5
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 54
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 143
   },
   {
     "year": 1980,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 90
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 149
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 62
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 895
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 142
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 95
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 111
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 354
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 158
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 114
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 314
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 45
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 110
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 202
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 57
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 246
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 71
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 177
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 190
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 239
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 212
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 54
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 52
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 28
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 286
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 298
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 383
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 65
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 87
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 308
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 118
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 153
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 186
   },
   {
     "year": 1984,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 267
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 76
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 47
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 385
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Basketball",
     "athletes": 71
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 37
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 65
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cycling",
     "athletes": 45
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 35
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 47
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 60
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 57
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 65
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Handball",
     "athletes": 82
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Hockey",
     "athletes": 96
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 27
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rhythmic Gymnastics",
     "athletes": 33
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rowing",
     "athletes": 161
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 2
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 77
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 52
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 186
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Synchronized Swimming",
     "athletes": 50
   },
   {
     "year": 1984,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 90
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 177
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 84
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 1063
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 143
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 90
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 135
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 432
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 211
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 121
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 358
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 49
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 128
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 248
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 63
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 270
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 89
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 170
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 190
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 265
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 243
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 66
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 65
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 44
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 399
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 331
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 285
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 65
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 88
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 381
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Table Tennis",
     "athletes": 81
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 81
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 144
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 156
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 226
   },
   {
     "year": 1988,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 429
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 95
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 62
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 555
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Basketball",
     "athletes": 93
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 64
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 77
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cycling",
     "athletes": 64
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 40
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 54
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 69
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 66
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 90
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Handball",
     "athletes": 111
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Hockey",
     "athletes": 124
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 24
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rhythmic Gymnastics",
     "athletes": 39
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rowing",
     "athletes": 194
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 44
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 111
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 53
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 252
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Synchronized Swimming",
     "athletes": 46
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Table Tennis",
     "athletes": 48
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 48
   },
   {
     "year": 1988,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 95
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 210
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 75
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 1104
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Badminton",
     "athletes": 93
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Baseball",
     "athletes": 160
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 142
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 116
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 159
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 336
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 335
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 139
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 376
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 46
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 148
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 234
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 67
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 272
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Freestyle Skiing",
     "athletes": 47
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 93
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 179
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 189
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 267
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 270
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 65
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 66
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 46
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 437
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 357
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 290
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Short Track Speed Skating",
     "athletes": 44
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 63
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 95
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 385
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Table Tennis",
     "athletes": 80
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 90
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 142
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 152
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 244
   },
   {
     "year": 1992,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 370
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 111
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 61
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 622
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Badminton",
     "athletes": 84
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Basketball",
     "athletes": 94
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Biathlon",
     "athletes": 80
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 105
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 84
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cycling",
     "athletes": 75
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 54
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 67
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 71
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 66
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Freestyle Skiing",
     "athletes": 24
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 92
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Handball",
     "athletes": 113
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Hockey",
     "athletes": 125
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Judo",
     "athletes": 163
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 24
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rhythmic Gymnastics",
     "athletes": 42
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rowing",
     "athletes": 190
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 84
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 117
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Short Track Speed Skating",
     "athletes": 42
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 59
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 256
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Synchronized Swimming",
     "athletes": 53
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Table Tennis",
     "athletes": 79
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 87
   },
   {
     "year": 1992,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 89
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 140
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 64
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 1302
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Badminton",
     "athletes": 96
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Baseball",
     "athletes": 160
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 141
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Beach Volleyball",
     "athletes": 48
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 99
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 155
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 355
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 330
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 117
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 366
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 66
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 153
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 136
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 63
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 264
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Freestyle Skiing",
     "athletes": 52
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 111
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 182
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 192
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 268
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 236
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 67
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 32
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 53
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 403
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 358
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 294
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Short Track Speed Skating",
     "athletes": 46
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 68
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 89
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 417
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Table Tennis",
     "athletes": 85
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 93
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 141
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 153
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 243
   },
   {
     "year": 1996,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 401
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 110
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 64
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 755
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Badminton",
     "athletes": 96
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Basketball",
     "athletes": 143
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Beach Volleyball",
     "athletes": 36
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Biathlon",
     "athletes": 94
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 121
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 80
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cycling",
     "athletes": 111
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 56
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 66
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 88
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 66
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Football",
     "athletes": 124
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Freestyle Skiing",
     "athletes": 45
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 105
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Handball",
     "athletes": 118
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Hockey",
     "athletes": 128
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Judo",
     "athletes": 151
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 25
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rhythmic Gymnastics",
     "athletes": 90
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rowing",
     "athletes": 205
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 100
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 125
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Short Track Speed Skating",
     "athletes": 41
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Softball",
     "athletes": 120
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 61
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 345
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Synchronized Swimming",
     "athletes": 72
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Table Tennis",
     "athletes": 81
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 83
   },
   {
     "year": 1996,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 134
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 141
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 64
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 1257
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Badminton",
     "athletes": 86
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Baseball",
     "athletes": 192
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 144
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Beach Volleyball",
     "athletes": 48
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 96
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 156
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 307
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 249
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 125
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Curling",
     "athletes": 40
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 341
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 80
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 128
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 134
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 73
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 267
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Freestyle Skiing",
     "athletes": 58
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 97
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 177
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 191
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 306
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 237
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 64
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 24
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 53
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 363
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 307
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 262
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Short Track Speed Skating",
     "athletes": 49
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 68
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Snowboarding",
     "athletes": 69
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 92
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 558
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Table Tennis",
     "athletes": 86
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Taekwondo",
     "athletes": 54
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 93
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Trampolining",
     "athletes": 12
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Triathlon",
     "athletes": 52
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 141
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 153
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 161
   },
   {
     "year": 2000,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 314
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 108
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 64
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 880
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Badminton",
     "athletes": 85
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Basketball",
     "athletes": 142
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Beach Volleyball",
     "athletes": 48
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Biathlon",
     "athletes": 87
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 81
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 102
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Curling",
     "athletes": 40
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cycling",
     "athletes": 121
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 77
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 67
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 83
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 72
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Football",
     "athletes": 124
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Freestyle Skiing",
     "athletes": 52
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 97
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Handball",
     "athletes": 146
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Hockey",
     "athletes": 159
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Ice Hockey",
     "athletes": 120
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Judo",
     "athletes": 161
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 29
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Modern Pentathlon",
     "athletes": 24
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rhythmic Gymnastics",
     "athletes": 84
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rowing",
     "athletes": 184
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 95
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 146
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Short Track Speed Skating",
     "athletes": 45
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Snowboarding",
     "athletes": 56
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Softball",
     "athletes": 120
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 79
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 396
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Synchronized Swimming",
     "athletes": 101
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Table Tennis",
     "athletes": 85
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Taekwondo",
     "athletes": 48
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 89
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Trampolining",
     "athletes": 12
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Triathlon",
     "athletes": 48
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 138
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Water Polo",
     "athletes": 78
   },
   {
     "year": 2000,
-    "sex": "F",
+    "sex": 2,
     "sport": "Weightlifting",
     "athletes": 85
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 157
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 64
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 1079
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Badminton",
     "athletes": 89
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Baseball",
     "athletes": 191
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 144
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Beach Volleyball",
     "athletes": 48
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 102
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 165
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 280
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 234
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 153
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Curling",
     "athletes": 49
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 334
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 64
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 137
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 129
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 72
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 259
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Freestyle Skiing",
     "athletes": 55
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 98
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 179
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 192
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 312
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 227
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 81
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 32
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 54
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 364
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 261
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 253
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Short Track Speed Skating",
     "athletes": 60
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Skeleton",
     "athletes": 26
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 73
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Snowboarding",
     "athletes": 65
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 95
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 544
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Table Tennis",
     "athletes": 86
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Taekwondo",
     "athletes": 64
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 87
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Trampolining",
     "athletes": 16
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Triathlon",
     "athletes": 49
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 143
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 154
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 164
   },
   {
     "year": 2004,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 292
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 121
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 64
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 916
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Badminton",
     "athletes": 83
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Basketball",
     "athletes": 143
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Beach Volleyball",
     "athletes": 48
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Biathlon",
     "athletes": 88
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Bobsleigh",
     "athletes": 30
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 94
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 107
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Curling",
     "athletes": 47
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cycling",
     "athletes": 130
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 65
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 66
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 93
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 71
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Football",
     "athletes": 166
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Freestyle Skiing",
     "athletes": 50
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 98
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Handball",
     "athletes": 149
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Hockey",
     "athletes": 160
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Ice Hockey",
     "athletes": 156
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Judo",
     "athletes": 157
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 29
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Modern Pentathlon",
     "athletes": 32
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rhythmic Gymnastics",
     "athletes": 84
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rowing",
     "athletes": 193
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 139
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 137
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Short Track Speed Skating",
     "athletes": 51
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Skeleton",
     "athletes": 13
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Snowboarding",
     "athletes": 53
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Softball",
     "athletes": 118
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 71
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 393
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Synchronized Swimming",
     "athletes": 101
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Table Tennis",
     "athletes": 86
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Taekwondo",
     "athletes": 60
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 83
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Trampolining",
     "athletes": 16
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Triathlon",
     "athletes": 50
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 140
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Water Polo",
     "athletes": 101
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Weightlifting",
     "athletes": 85
   },
   {
     "year": 2004,
-    "sex": "F",
+    "sex": 2,
     "sport": "Wrestling",
     "athletes": 50
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 168
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 64
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 1082
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Badminton",
     "athletes": 87
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Baseball",
     "athletes": 191
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 144
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Beach Volleyball",
     "athletes": 48
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 107
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 118
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 283
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 235
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 183
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Curling",
     "athletes": 45
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 361
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 67
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 120
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 118
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 74
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 274
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Freestyle Skiing",
     "athletes": 63
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 98
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 172
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 196
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 282
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 230
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 78
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 36
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 59
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 364
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 261
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 245
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Short Track Speed Skating",
     "athletes": 54
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Skeleton",
     "athletes": 27
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 79
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Snowboarding",
     "athletes": 108
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 97
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 569
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Table Tennis",
     "athletes": 86
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Taekwondo",
     "athletes": 63
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 86
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Trampolining",
     "athletes": 16
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Triathlon",
     "athletes": 55
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 143
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 153
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 166
   },
   {
     "year": 2008,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 277
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 119
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 64
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 974
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Badminton",
     "athletes": 86
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Basketball",
     "athletes": 143
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Beach Volleyball",
     "athletes": 48
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Biathlon",
     "athletes": 97
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Bobsleigh",
     "athletes": 32
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 95
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 124
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Curling",
     "athletes": 46
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cycling",
     "athletes": 147
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 73
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 73
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 116
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 73
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Football",
     "athletes": 195
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Freestyle Skiing",
     "athletes": 53
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 98
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Handball",
     "athletes": 171
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Hockey",
     "athletes": 191
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Ice Hockey",
     "athletes": 160
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Judo",
     "athletes": 156
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 30
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Modern Pentathlon",
     "athletes": 36
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rhythmic Gymnastics",
     "athletes": 95
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rowing",
     "athletes": 191
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 139
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 145
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Short Track Speed Skating",
     "athletes": 52
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Skeleton",
     "athletes": 15
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Snowboarding",
     "athletes": 79
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Softball",
     "athletes": 120
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 77
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 453
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Synchronized Swimming",
     "athletes": 102
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Table Tennis",
     "athletes": 85
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Taekwondo",
     "athletes": 63
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 83
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Trampolining",
     "athletes": 16
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Triathlon",
     "athletes": 55
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 140
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Water Polo",
     "athletes": 103
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Weightlifting",
     "athletes": 87
   },
   {
     "year": 2008,
-    "sex": "F",
+    "sex": 2,
     "sport": "Wrestling",
     "athletes": 66
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 176
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 64
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 1088
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Badminton",
     "athletes": 86
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 144
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Beach Volleyball",
     "athletes": 48
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 105
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 117
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 247
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 221
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 163
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Curling",
     "athletes": 47
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 321
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 68
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 122
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 121
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 73
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 267
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Freestyle Skiing",
     "athletes": 87
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 98
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 176
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 196
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 260
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 231
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 78
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 36
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 52
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 353
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 237
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 231
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Short Track Speed Skating",
     "athletes": 54
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Skeleton",
     "athletes": 28
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 68
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Snowboarding",
     "athletes": 104
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 94
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 481
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Table Tennis",
     "athletes": 86
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Taekwondo",
     "athletes": 64
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 95
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Trampolining",
     "athletes": 16
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Triathlon",
     "athletes": 55
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 144
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 155
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 149
   },
   {
     "year": 2012,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 263
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 133
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 64
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 991
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Badminton",
     "athletes": 86
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Basketball",
     "athletes": 143
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Beach Volleyball",
     "athletes": 48
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Biathlon",
     "athletes": 99
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Bobsleigh",
     "athletes": 42
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Boxing",
     "athletes": 36
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 111
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 129
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Curling",
     "athletes": 46
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cycling",
     "athletes": 180
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 68
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 77
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 123
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 73
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Football",
     "athletes": 200
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Freestyle Skiing",
     "athletes": 85
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 97
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Handball",
     "athletes": 171
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Hockey",
     "athletes": 191
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Ice Hockey",
     "athletes": 160
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Judo",
     "athletes": 153
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 29
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Modern Pentathlon",
     "athletes": 36
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rhythmic Gymnastics",
     "athletes": 95
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rowing",
     "athletes": 196
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 142
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 159
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Short Track Speed Skating",
     "athletes": 55
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Skeleton",
     "athletes": 19
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Snowboarding",
     "athletes": 81
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 83
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 450
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Synchronized Swimming",
     "athletes": 101
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Table Tennis",
     "athletes": 88
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Taekwondo",
     "athletes": 64
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 89
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Trampolining",
     "athletes": 16
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Triathlon",
     "athletes": 55
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 143
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Water Polo",
     "athletes": 102
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Weightlifting",
     "athletes": 103
   },
   {
     "year": 2012,
-    "sex": "F",
+    "sex": 2,
     "sport": "Wrestling",
     "athletes": 76
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Alpine Skiing",
     "athletes": 184
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Archery",
     "athletes": 64
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Athletics",
     "athletes": 1185
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Badminton",
     "athletes": 86
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Basketball",
     "athletes": 141
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Beach Volleyball",
     "athletes": 48
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Biathlon",
     "athletes": 105
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Bobsleigh",
     "athletes": 133
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Boxing",
     "athletes": 247
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Canoeing",
     "athletes": 218
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cross Country Skiing",
     "athletes": 173
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Curling",
     "athletes": 44
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Cycling",
     "athletes": 321
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Diving",
     "athletes": 68
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Equestrianism",
     "athletes": 125
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Fencing",
     "athletes": 121
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Figure Skating",
     "athletes": 75
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Football",
     "athletes": 270
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Freestyle Skiing",
     "athletes": 139
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Golf",
     "athletes": 60
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Gymnastics",
     "athletes": 98
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Handball",
     "athletes": 177
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Hockey",
     "athletes": 196
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ice Hockey",
     "athletes": 285
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Judo",
     "athletes": 237
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Luge",
     "athletes": 77
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Modern Pentathlon",
     "athletes": 36
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Nordic Combined",
     "athletes": 54
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rowing",
     "athletes": 331
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Rugby Sevens",
     "athletes": 151
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Sailing",
     "athletes": 217
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Shooting",
     "athletes": 239
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Short Track Speed Skating",
     "athletes": 56
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Skeleton",
     "athletes": 27
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Ski Jumping",
     "athletes": 66
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Snowboarding",
     "athletes": 134
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Speed Skating",
     "athletes": 94
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Swimming",
     "athletes": 504
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Table Tennis",
     "athletes": 86
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Taekwondo",
     "athletes": 62
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Tennis",
     "athletes": 105
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Trampolining",
     "athletes": 16
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Triathlon",
     "athletes": 55
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Volleyball",
     "athletes": 141
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Water Polo",
     "athletes": 154
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Weightlifting",
     "athletes": 152
   },
   {
     "year": 2016,
-    "sex": "M",
+    "sex": 1,
     "sport": "Wrestling",
     "athletes": 234
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Alpine Skiing",
     "athletes": 130
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Archery",
     "athletes": 64
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Athletics",
     "athletes": 1084
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Badminton",
     "athletes": 86
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Basketball",
     "athletes": 140
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Beach Volleyball",
     "athletes": 48
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Biathlon",
     "athletes": 99
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Bobsleigh",
     "athletes": 39
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Boxing",
     "athletes": 36
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Canoeing",
     "athletes": 112
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cross Country Skiing",
     "athletes": 125
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Curling",
     "athletes": 43
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Cycling",
     "athletes": 192
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Diving",
     "athletes": 68
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Equestrianism",
     "athletes": 75
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Fencing",
     "athletes": 124
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Figure Skating",
     "athletes": 74
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Football",
     "athletes": 203
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Freestyle Skiing",
     "athletes": 123
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Golf",
     "athletes": 60
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Gymnastics",
     "athletes": 98
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Handball",
     "athletes": 176
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Hockey",
     "athletes": 194
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Ice Hockey",
     "athletes": 158
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Judo",
     "athletes": 152
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Luge",
     "athletes": 31
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Modern Pentathlon",
     "athletes": 36
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rhythmic Gymnastics",
     "athletes": 96
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rowing",
     "athletes": 215
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Rugby Sevens",
     "athletes": 148
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Sailing",
     "athletes": 163
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Shooting",
     "athletes": 151
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Short Track Speed Skating",
     "athletes": 50
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Skeleton",
     "athletes": 19
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Ski Jumping",
     "athletes": 30
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Snowboarding",
     "athletes": 103
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Speed Skating",
     "athletes": 83
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Swimming",
     "athletes": 438
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Synchronized Swimming",
     "athletes": 102
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Table Tennis",
     "athletes": 86
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Taekwondo",
     "athletes": 64
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Tennis",
     "athletes": 91
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Trampolining",
     "athletes": 16
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Triathlon",
     "athletes": 55
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Volleyball",
     "athletes": 142
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Water Polo",
     "athletes": 104
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Weightlifting",
     "athletes": 103
   },
   {
     "year": 2016,
-    "sex": "F",
+    "sex": 2,
     "sport": "Wrestling",
     "athletes": 112
   }
