@@ -262,12 +262,12 @@
 
   "axes": [
     {
-      "title": "gdp",
+      "title": "GDP in constant 2010 USD billion",
       "orient": "bottom", "scale": "x",
       "grid": true, "tickCount": 5
     },
     {
-      "title": "medals earned",
+      "title": "Medals earned",
       "orient": "left", "scale": "y",
       "grid": true, "tickCount": 5
     }
