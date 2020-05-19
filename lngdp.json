@@ -1,0 +1,2186 @@
+[
+  {
+    "noc": "ARG",
+    "year": 1960,
+    "medals": 4,
+    "country": "Argentina",
+    "gdp": 25.5,
+    "population": 20481779
+  },
+  {
+    "noc": "ARG",
+    "year": 1964,
+    "medals": 1,
+    "country": "Argentina",
+    "gdp": 25.6,
+    "population": 21824425
+  },
+  {
+    "noc": "ARG",
+    "year": 1968,
+    "medals": 2,
+    "country": "Argentina",
+    "gdp": 25.7,
+    "population": 23168267
+  },
+  {
+    "noc": "ARG",
+    "year": 1972,
+    "medals": 1,
+    "country": "Argentina",
+    "gdp": 25.9,
+    "population": 24653175
+  },
+  {
+    "noc": "ARG",
+    "year": 1976,
+    "medals": 0,
+    "country": "Argentina",
+    "gdp": 26,
+    "population": 26264681
+  },
+  {
+    "noc": "ARG",
+    "year": 1980,
+    "medals": 0,
+    "country": "Argentina",
+    "gdp": 26.1,
+    "population": 27896528
+  },
+  {
+    "noc": "ARG",
+    "year": 1984,
+    "medals": 0,
+    "country": "Argentina",
+    "gdp": 26.1,
+    "population": 29737093
+  },
+  {
+    "noc": "ARG",
+    "year": 1988,
+    "medals": 13,
+    "country": "Argentina",
+    "gdp": 26.1,
+    "population": 31668949
+  },
+  {
+    "noc": "ARG",
+    "year": 1992,
+    "medals": 2,
+    "country": "Argentina",
+    "gdp": 26.2,
+    "population": 33529326
+  },
+  {
+    "noc": "ARG",
+    "year": 1996,
+    "medals": 20,
+    "country": "Argentina",
+    "gdp": 26.4,
+    "population": 35246374
+  },
+  {
+    "noc": "ARG",
+    "year": 2000,
+    "medals": 20,
+    "country": "Argentina",
+    "gdp": 26.4,
+    "population": 36870787
+  },
+  {
+    "noc": "ARG",
+    "year": 2004,
+    "medals": 49,
+    "country": "Argentina",
+    "gdp": 26.4,
+    "population": 38491972
+  },
+  {
+    "noc": "ARG",
+    "year": 2008,
+    "medals": 51,
+    "country": "Argentina",
+    "gdp": 26.7,
+    "population": 40080160
+  },
+  {
+    "noc": "ARG",
+    "year": 2012,
+    "medals": 19,
+    "country": "Argentina",
+    "gdp": 26.8,
+    "population": 41733271
+  },
+  {
+    "noc": "ARG",
+    "year": 2016,
+    "medals": 22,
+    "country": "Argentina",
+    "gdp": 26.8,
+    "population": 43590368
+  },
+  {
+    "noc": "AUS",
+    "year": 1960,
+    "medals": 46,
+    "country": "Australia",
+    "gdp": 26,
+    "population": 10276477
+  },
+  {
+    "noc": "AUS",
+    "year": 1964,
+    "medals": 44,
+    "country": "Australia",
+    "gdp": 26.2,
+    "population": 11167000
+  },
+  {
+    "noc": "AUS",
+    "year": 1968,
+    "medals": 51,
+    "country": "Australia",
+    "gdp": 26.4,
+    "population": 12009000
+  },
+  {
+    "noc": "AUS",
+    "year": 1972,
+    "medals": 20,
+    "country": "Australia",
+    "gdp": 26.6,
+    "population": 13177000
+  },
+  {
+    "noc": "AUS",
+    "year": 1976,
+    "medals": 23,
+    "country": "Australia",
+    "gdp": 26.7,
+    "population": 14033000
+  },
+  {
+    "noc": "AUS",
+    "year": 1980,
+    "medals": 13,
+    "country": "Australia",
+    "gdp": 26.8,
+    "population": 14692000
+  },
+  {
+    "noc": "AUS",
+    "year": 1984,
+    "medals": 52,
+    "country": "Australia",
+    "gdp": 26.9,
+    "population": 15544000
+  },
+  {
+    "noc": "AUS",
+    "year": 1988,
+    "medals": 35,
+    "country": "Australia",
+    "gdp": 27.1,
+    "population": 16532200
+  },
+  {
+    "noc": "AUS",
+    "year": 1992,
+    "medals": 57,
+    "country": "Australia",
+    "gdp": 27.1,
+    "population": 17495000
+  },
+  {
+    "noc": "AUS",
+    "year": 1996,
+    "medals": 136,
+    "country": "Australia",
+    "gdp": 27.3,
+    "population": 18311000
+  },
+  {
+    "noc": "AUS",
+    "year": 2000,
+    "medals": 184,
+    "country": "Australia",
+    "gdp": 27.5,
+    "population": 19153000
+  },
+  {
+    "noc": "AUS",
+    "year": 2004,
+    "medals": 159,
+    "country": "Australia",
+    "gdp": 27.6,
+    "population": 20127400
+  },
+  {
+    "noc": "AUS",
+    "year": 2008,
+    "medals": 151,
+    "country": "Australia",
+    "gdp": 27.7,
+    "population": 21249200
+  },
+  {
+    "noc": "AUS",
+    "year": 2012,
+    "medals": 117,
+    "country": "Australia",
+    "gdp": 27.8,
+    "population": 22733465
+  },
+  {
+    "noc": "AUS",
+    "year": 2016,
+    "medals": 85,
+    "country": "Australia",
+    "gdp": 27.9,
+    "population": 24190907
+  },
+  {
+    "noc": "BRA",
+    "year": 1960,
+    "medals": 13,
+    "country": "Brazil",
+    "gdp": 26.2,
+    "population": 72179226
+  },
+  {
+    "noc": "BRA",
+    "year": 1964,
+    "medals": 12,
+    "country": "Brazil",
+    "gdp": 26.4,
+    "population": 81064571
+  },
+  {
+    "noc": "BRA",
+    "year": 1968,
+    "medals": 4,
+    "country": "Brazil",
+    "gdp": 26.7,
+    "population": 90387079
+  },
+  {
+    "noc": "BRA",
+    "year": 1972,
+    "medals": 2,
+    "country": "Brazil",
+    "gdp": 27,
+    "population": 99859383
+  },
+  {
+    "noc": "BRA",
+    "year": 1976,
+    "medals": 3,
+    "country": "Brazil",
+    "gdp": 27.4,
+    "population": 109790938
+  },
+  {
+    "noc": "BRA",
+    "year": 1980,
+    "medals": 9,
+    "country": "Brazil",
+    "gdp": 27.6,
+    "population": 120694009
+  },
+  {
+    "noc": "BRA",
+    "year": 1984,
+    "medals": 36,
+    "country": "Brazil",
+    "gdp": 27.6,
+    "population": 132383568
+  },
+  {
+    "noc": "BRA",
+    "year": 1988,
+    "medals": 23,
+    "country": "Brazil",
+    "gdp": 27.8,
+    "population": 143627503
+  },
+  {
+    "noc": "BRA",
+    "year": 1992,
+    "medals": 14,
+    "country": "Brazil",
+    "gdp": 27.8,
+    "population": 154259380
+  },
+  {
+    "noc": "BRA",
+    "year": 1996,
+    "medals": 63,
+    "country": "Brazil",
+    "gdp": 28,
+    "population": 164614688
+  },
+  {
+    "noc": "BRA",
+    "year": 2000,
+    "medals": 48,
+    "country": "Brazil",
+    "gdp": 28.1,
+    "population": 174790340
+  },
+  {
+    "noc": "BRA",
+    "year": 2004,
+    "medals": 40,
+    "country": "Brazil",
+    "gdp": 28.2,
+    "population": 184006481
+  },
+  {
+    "noc": "BRA",
+    "year": 2008,
+    "medals": 78,
+    "country": "Brazil",
+    "gdp": 28.4,
+    "population": 192030362
+  },
+  {
+    "noc": "BRA",
+    "year": 2012,
+    "medals": 59,
+    "country": "Brazil",
+    "gdp": 28.5,
+    "population": 199287296
+  },
+  {
+    "noc": "BRA",
+    "year": 2016,
+    "medals": 50,
+    "country": "Brazil",
+    "gdp": 28.4,
+    "population": 206163058
+  },
+  {
+    "noc": "CAN",
+    "year": 1960,
+    "medals": 30,
+    "country": "Canada",
+    "gdp": 26.4,
+    "population": 17909009
+  },
+  {
+    "noc": "CAN",
+    "year": 1964,
+    "medals": 12,
+    "country": "Canada",
+    "gdp": 26.6,
+    "population": 19325000
+  },
+  {
+    "noc": "CAN",
+    "year": 1968,
+    "medals": 30,
+    "country": "Canada",
+    "gdp": 26.8,
+    "population": 20744000
+  },
+  {
+    "noc": "CAN",
+    "year": 1972,
+    "medals": 12,
+    "country": "Canada",
+    "gdp": 27,
+    "population": 22218463
+  },
+  {
+    "noc": "CAN",
+    "year": 1976,
+    "medals": 26,
+    "country": "Canada",
+    "gdp": 27.2,
+    "population": 23449808
+  },
+  {
+    "noc": "CAN",
+    "year": 1980,
+    "medals": 2,
+    "country": "Canada",
+    "gdp": 27.3,
+    "population": 24515667
+  },
+  {
+    "noc": "CAN",
+    "year": 1984,
+    "medals": 91,
+    "country": "Canada",
+    "gdp": 27.4,
+    "population": 25607053
+  },
+  {
+    "noc": "CAN",
+    "year": 1988,
+    "medals": 29,
+    "country": "Canada",
+    "gdp": 27.5,
+    "population": 26791747
+  },
+  {
+    "noc": "CAN",
+    "year": 1992,
+    "medals": 80,
+    "country": "Canada",
+    "gdp": 27.5,
+    "population": 28371264
+  },
+  {
+    "noc": "CAN",
+    "year": 1996,
+    "medals": 87,
+    "country": "Canada",
+    "gdp": 27.7,
+    "population": 29610218
+  },
+  {
+    "noc": "CAN",
+    "year": 2000,
+    "medals": 80,
+    "country": "Canada",
+    "gdp": 27.8,
+    "population": 30685730
+  },
+  {
+    "noc": "CAN",
+    "year": 2004,
+    "medals": 91,
+    "country": "Canada",
+    "gdp": 27.9,
+    "population": 31940655
+  },
+  {
+    "noc": "CAN",
+    "year": 2008,
+    "medals": 104,
+    "country": "Canada",
+    "gdp": 28.1,
+    "population": 33247118
+  },
+  {
+    "noc": "CAN",
+    "year": 2012,
+    "medals": 145,
+    "country": "Canada",
+    "gdp": 28.2,
+    "population": 34714222
+  },
+  {
+    "noc": "CAN",
+    "year": 2016,
+    "medals": 155,
+    "country": "Canada",
+    "gdp": 28.2,
+    "population": 36109487
+  },
+  {
+    "noc": "CHN",
+    "year": 1980,
+    "medals": 0,
+    "country": "China",
+    "gdp": 26.6,
+    "population": 981235000
+  },
+  {
+    "noc": "CHN",
+    "year": 1984,
+    "medals": 74,
+    "country": "China",
+    "gdp": 26.9,
+    "population": 1036825000
+  },
+  {
+    "noc": "CHN",
+    "year": 1988,
+    "medals": 52,
+    "country": "China",
+    "gdp": 27.4,
+    "population": 1101630000
+  },
+  {
+    "noc": "CHN",
+    "year": 1992,
+    "medals": 85,
+    "country": "China",
+    "gdp": 27.7,
+    "population": 1164970000
+  },
+  {
+    "noc": "CHN",
+    "year": 1996,
+    "medals": 109,
+    "country": "China",
+    "gdp": 28.1,
+    "population": 1217550000
+  },
+  {
+    "noc": "CHN",
+    "year": 2000,
+    "medals": 93,
+    "country": "China",
+    "gdp": 28.4,
+    "population": 1262645000
+  },
+  {
+    "noc": "CHN",
+    "year": 2004,
+    "medals": 110,
+    "country": "China",
+    "gdp": 28.8,
+    "population": 1296075000
+  },
+  {
+    "noc": "CHN",
+    "year": 2008,
+    "medals": 197,
+    "country": "China",
+    "gdp": 29.2,
+    "population": 1324655000
+  },
+  {
+    "noc": "CHN",
+    "year": 2012,
+    "medals": 144,
+    "country": "China",
+    "gdp": 29.6,
+    "population": 1350695000
+  },
+  {
+    "noc": "CHN",
+    "year": 2016,
+    "medals": 125,
+    "country": "China",
+    "gdp": 29.9,
+    "population": 1378665000
+  },
+  {
+    "noc": "FRA",
+    "year": 1960,
+    "medals": 15,
+    "country": "France",
+    "gdp": 27.1,
+    "population": 46621669
+  },
+  {
+    "noc": "FRA",
+    "year": 1964,
+    "medals": 38,
+    "country": "France",
+    "gdp": 27.3,
+    "population": 49230595
+  },
+  {
+    "noc": "FRA",
+    "year": 1968,
+    "medals": 36,
+    "country": "France",
+    "gdp": 27.5,
+    "population": 51175508
+  },
+  {
+    "noc": "FRA",
+    "year": 1972,
+    "medals": 25,
+    "country": "France",
+    "gdp": 27.8,
+    "population": 52793138
+  },
+  {
+    "noc": "FRA",
+    "year": 1976,
+    "medals": 21,
+    "country": "France",
+    "gdp": 27.9,
+    "population": 54220022
+  },
+  {
+    "noc": "FRA",
+    "year": 1980,
+    "medals": 30,
+    "country": "France",
+    "gdp": 28,
+    "population": 55161527
+  },
+  {
+    "noc": "FRA",
+    "year": 1984,
+    "medals": 70,
+    "country": "France",
+    "gdp": 28.1,
+    "population": 56337666
+  },
+  {
+    "noc": "FRA",
+    "year": 1988,
+    "medals": 31,
+    "country": "France",
+    "gdp": 28.2,
+    "population": 57627105
+  },
+  {
+    "noc": "FRA",
+    "year": 1992,
+    "medals": 69,
+    "country": "France",
+    "gdp": 28.3,
+    "population": 58851217
+  },
+  {
+    "noc": "FRA",
+    "year": 1996,
+    "medals": 62,
+    "country": "France",
+    "gdp": 28.3,
+    "population": 59753100
+  },
+  {
+    "noc": "FRA",
+    "year": 2000,
+    "medals": 81,
+    "country": "France",
+    "gdp": 28.5,
+    "population": 60912500
+  },
+  {
+    "noc": "FRA",
+    "year": 2004,
+    "medals": 68,
+    "country": "France",
+    "gdp": 28.5,
+    "population": 62704895
+  },
+  {
+    "noc": "FRA",
+    "year": 2008,
+    "medals": 92,
+    "country": "France",
+    "gdp": 28.6,
+    "population": 64374984
+  },
+  {
+    "noc": "FRA",
+    "year": 2012,
+    "medals": 96,
+    "country": "France",
+    "gdp": 28.6,
+    "population": 65659809
+  },
+  {
+    "noc": "FRA",
+    "year": 2016,
+    "medals": 114,
+    "country": "France",
+    "gdp": 28.7,
+    "population": 66721256
+  },
+  {
+    "noc": "GER",
+    "year": 1960,
+    "medals": 98,
+    "country": "Germany",
+    "gdp": "#NUM!",
+    "population": 72814900
+  },
+  {
+    "noc": "GER",
+    "year": 1964,
+    "medals": 126,
+    "country": "Germany",
+    "gdp": "#NUM!",
+    "population": 75318337
+  },
+  {
+    "noc": "GER",
+    "year": 1968,
+    "medals": 119,
+    "country": "Germany",
+    "gdp": "#NUM!",
+    "population": 77294314
+  },
+  {
+    "noc": "GER",
+    "year": 1972,
+    "medals": 283,
+    "country": "Germany",
+    "gdp": 28.1,
+    "population": 78688452
+  },
+  {
+    "noc": "GER",
+    "year": 1976,
+    "medals": 337,
+    "country": "Germany",
+    "gdp": 28.2,
+    "population": 78336950
+  },
+  {
+    "noc": "GER",
+    "year": 1980,
+    "medals": 311,
+    "country": "Germany",
+    "gdp": 28.3,
+    "population": 78288576
+  },
+  {
+    "noc": "GER",
+    "year": 1984,
+    "medals": 199,
+    "country": "Germany",
+    "gdp": 28.4,
+    "population": 77858685
+  },
+  {
+    "noc": "GER",
+    "year": 1988,
+    "medals": 342,
+    "country": "Germany",
+    "gdp": 28.5,
+    "population": 78144619
+  },
+  {
+    "noc": "GER",
+    "year": 1992,
+    "medals": 236,
+    "country": "Germany",
+    "gdp": 28.6,
+    "population": 80624598
+  },
+  {
+    "noc": "GER",
+    "year": 1996,
+    "medals": 164,
+    "country": "Germany",
+    "gdp": 28.7,
+    "population": 81914831
+  },
+  {
+    "noc": "GER",
+    "year": 2000,
+    "medals": 162,
+    "country": "Germany",
+    "gdp": 28.8,
+    "population": 82211508
+  },
+  {
+    "noc": "GER",
+    "year": 2004,
+    "medals": 210,
+    "country": "Germany",
+    "gdp": 28.8,
+    "population": 82516260
+  },
+  {
+    "noc": "GER",
+    "year": 2008,
+    "medals": 153,
+    "country": "Germany",
+    "gdp": 28.9,
+    "population": 82110097
+  },
+  {
+    "noc": "GER",
+    "year": 2012,
+    "medals": 148,
+    "country": "Germany",
+    "gdp": 28.9,
+    "population": 80425823
+  },
+  {
+    "noc": "GER",
+    "year": 2016,
+    "medals": 195,
+    "country": "Germany",
+    "gdp": 29,
+    "population": 82348669
+  },
+  {
+    "noc": "IND",
+    "year": 1960,
+    "medals": 13,
+    "country": "India",
+    "gdp": 25.7,
+    "population": 450547679
+  },
+  {
+    "noc": "IND",
+    "year": 1964,
+    "medals": 15,
+    "country": "India",
+    "gdp": 25.9,
+    "population": 488848135
+  },
+  {
+    "noc": "IND",
+    "year": 1968,
+    "medals": 16,
+    "country": "India",
+    "gdp": 26,
+    "population": 531513824
+  },
+  {
+    "noc": "IND",
+    "year": 1972,
+    "medals": 14,
+    "country": "India",
+    "gdp": 26.1,
+    "population": 581087256
+  },
+  {
+    "noc": "IND",
+    "year": 1976,
+    "medals": 0,
+    "country": "India",
+    "gdp": 26.3,
+    "population": 637630087
+  },
+  {
+    "noc": "IND",
+    "year": 1980,
+    "medals": 16,
+    "country": "India",
+    "gdp": 26.4,
+    "population": 698952844
+  },
+  {
+    "noc": "IND",
+    "year": 1984,
+    "medals": 0,
+    "country": "India",
+    "gdp": 26.6,
+    "population": 766833410
+  },
+  {
+    "noc": "IND",
+    "year": 1988,
+    "medals": 0,
+    "country": "India",
+    "gdp": 26.8,
+    "population": 837468930
+  },
+  {
+    "noc": "IND",
+    "year": 1992,
+    "medals": 0,
+    "country": "India",
+    "gdp": 27,
+    "population": 909307016
+  },
+  {
+    "noc": "IND",
+    "year": 1996,
+    "medals": 1,
+    "country": "India",
+    "gdp": 27.3,
+    "population": 982365243
+  },
+  {
+    "noc": "IND",
+    "year": 2000,
+    "medals": 1,
+    "country": "India",
+    "gdp": 27.5,
+    "population": 1056575549
+  },
+  {
+    "noc": "IND",
+    "year": 2004,
+    "medals": 1,
+    "country": "India",
+    "gdp": 27.7,
+    "population": 1129623456
+  },
+  {
+    "noc": "IND",
+    "year": 2008,
+    "medals": 3,
+    "country": "India",
+    "gdp": 28,
+    "population": 1200669765
+  },
+  {
+    "noc": "IND",
+    "year": 2012,
+    "medals": 6,
+    "country": "India",
+    "gdp": 28.3,
+    "population": 1265782790
+  },
+  {
+    "noc": "IND",
+    "year": 2016,
+    "medals": 2,
+    "country": "India",
+    "gdp": 28.5,
+    "population": 1324509589
+  },
+  {
+    "noc": "INA",
+    "year": 1960,
+    "medals": 0,
+    "country": "Indonesia",
+    "gdp": 24.8272405,
+    "population": 87751068
+  },
+  {
+    "noc": "INA",
+    "year": 1964,
+    "medals": 0,
+    "country": "Indonesia",
+    "gdp": 24.91337588,
+    "population": 97596733
+  },
+  {
+    "noc": "INA",
+    "year": 1968,
+    "medals": 0,
+    "country": "Indonesia",
+    "gdp": 25.06896987,
+    "population": 108779924
+  },
+  {
+    "noc": "INA",
+    "year": 1972,
+    "medals": 0,
+    "country": "Indonesia",
+    "gdp": 25.3,
+    "population": 121017314
+  },
+  {
+    "noc": "INA",
+    "year": 1976,
+    "medals": 0,
+    "country": "Indonesia",
+    "gdp": 25.6,
+    "population": 133966941
+  },
+  {
+    "noc": "INA",
+    "year": 1980,
+    "medals": 0,
+    "country": "Indonesia",
+    "gdp": 25.9,
+    "population": 147447836
+  },
+  {
+    "noc": "INA",
+    "year": 1984,
+    "medals": 0,
+    "country": "Indonesia",
+    "gdp": 26.1,
+    "population": 161523347
+  },
+  {
+    "noc": "INA",
+    "year": 1988,
+    "medals": 3,
+    "country": "Indonesia",
+    "gdp": 26.3,
+    "population": 174975954
+  },
+  {
+    "noc": "INA",
+    "year": 1992,
+    "medals": 6,
+    "country": "Indonesia",
+    "gdp": 26.6,
+    "population": 187739786
+  },
+  {
+    "noc": "INA",
+    "year": 1996,
+    "medals": 6,
+    "country": "Indonesia",
+    "gdp": 26.9,
+    "population": 199901228
+  },
+  {
+    "noc": "INA",
+    "year": 2000,
+    "medals": 8,
+    "country": "Indonesia",
+    "gdp": 26.8,
+    "population": 211513823
+  },
+  {
+    "noc": "INA",
+    "year": 2004,
+    "medals": 5,
+    "country": "Indonesia",
+    "gdp": 27,
+    "population": 223285676
+  },
+  {
+    "noc": "INA",
+    "year": 2008,
+    "medals": 7,
+    "country": "Indonesia",
+    "gdp": 27.2,
+    "population": 235469762
+  },
+  {
+    "noc": "INA",
+    "year": 2012,
+    "medals": 2,
+    "country": "Indonesia",
+    "gdp": 27.5,
+    "population": 248452413
+  },
+  {
+    "noc": "INA",
+    "year": 2016,
+    "medals": 4,
+    "country": "Indonesia",
+    "gdp": 27.7,
+    "population": 261554226
+  },
+  {
+    "noc": "ITA",
+    "year": 1960,
+    "medals": 89,
+    "country": "Italy",
+    "gdp": 27,
+    "population": 50199700
+  },
+  {
+    "noc": "ITA",
+    "year": 1964,
+    "medals": 61,
+    "country": "Italy",
+    "gdp": 27.2,
+    "population": 51675350
+  },
+  {
+    "noc": "ITA",
+    "year": 1968,
+    "medals": 41,
+    "country": "Italy",
+    "gdp": 27.5,
+    "population": 53235750
+  },
+  {
+    "noc": "ITA",
+    "year": 1972,
+    "medals": 34,
+    "country": "Italy",
+    "gdp": 27.6,
+    "population": 54381345
+  },
+  {
+    "noc": "ITA",
+    "year": 1976,
+    "medals": 35,
+    "country": "Italy",
+    "gdp": 27.8,
+    "population": 55718260
+  },
+  {
+    "noc": "ITA",
+    "year": 1980,
+    "medals": 40,
+    "country": "Italy",
+    "gdp": 28,
+    "population": 56433883
+  },
+  {
+    "noc": "ITA",
+    "year": 1984,
+    "medals": 65,
+    "country": "Italy",
+    "gdp": 28,
+    "population": 56576718
+  },
+  {
+    "noc": "ITA",
+    "year": 1988,
+    "medals": 37,
+    "country": "Italy",
+    "gdp": 28.1,
+    "population": 56629288
+  },
+  {
+    "noc": "ITA",
+    "year": 1992,
+    "medals": 66,
+    "country": "Italy",
+    "gdp": 28.2,
+    "population": 56797087
+  },
+  {
+    "noc": "ITA",
+    "year": 1996,
+    "medals": 103,
+    "country": "Italy",
+    "gdp": 28.3,
+    "population": 56860281
+  },
+  {
+    "noc": "ITA",
+    "year": 2000,
+    "medals": 82,
+    "country": "Italy",
+    "gdp": 28.4,
+    "population": 56942108
+  },
+  {
+    "noc": "ITA",
+    "year": 2004,
+    "medals": 125,
+    "country": "Italy",
+    "gdp": 28.4,
+    "population": 57685327
+  },
+  {
+    "noc": "ITA",
+    "year": 2008,
+    "medals": 67,
+    "country": "Italy",
+    "gdp": 28.4,
+    "population": 58826731
+  },
+  {
+    "noc": "ITA",
+    "year": 2012,
+    "medals": 73,
+    "country": "Italy",
+    "gdp": 28.4,
+    "population": 59539717
+  },
+  {
+    "noc": "ITA",
+    "year": 2016,
+    "medals": 86,
+    "country": "Italy",
+    "gdp": 28.4,
+    "population": 60627498
+  },
+  {
+    "noc": "JPN",
+    "year": 1960,
+    "medals": 31,
+    "country": "Japan",
+    "gdp": 27.4,
+    "population": 92500572
+  },
+  {
+    "noc": "JPN",
+    "year": 1964,
+    "medals": 62,
+    "country": "Japan",
+    "gdp": 27.8,
+    "population": 97826000
+  },
+  {
+    "noc": "JPN",
+    "year": 1968,
+    "medals": 63,
+    "country": "Japan",
+    "gdp": 28.2,
+    "population": 101061000
+  },
+  {
+    "noc": "JPN",
+    "year": 1972,
+    "medals": 59,
+    "country": "Japan",
+    "gdp": 28.4,
+    "population": 107188000
+  },
+  {
+    "noc": "JPN",
+    "year": 1976,
+    "medals": 41,
+    "country": "Japan",
+    "gdp": 28.6,
+    "population": 112771000
+  },
+  {
+    "noc": "JPN",
+    "year": 1980,
+    "medals": 1,
+    "country": "Japan",
+    "gdp": 28.7,
+    "population": 116782000
+  },
+  {
+    "noc": "JPN",
+    "year": 1984,
+    "medals": 50,
+    "country": "Japan",
+    "gdp": 28.9,
+    "population": 120018000
+  },
+  {
+    "noc": "JPN",
+    "year": 1988,
+    "medals": 21,
+    "country": "Japan",
+    "gdp": 29.1,
+    "population": 122613000
+  },
+  {
+    "noc": "JPN",
+    "year": 1992,
+    "medals": 59,
+    "country": "Japan",
+    "gdp": 29.2,
+    "population": 124229000
+  },
+  {
+    "noc": "JPN",
+    "year": 1996,
+    "medals": 52,
+    "country": "Japan",
+    "gdp": 29.3,
+    "population": 125757000
+  },
+  {
+    "noc": "JPN",
+    "year": 2000,
+    "medals": 57,
+    "country": "Japan",
+    "gdp": 29.3,
+    "population": 126843000
+  },
+  {
+    "noc": "JPN",
+    "year": 2004,
+    "medals": 95,
+    "country": "Japan",
+    "gdp": 29.4,
+    "population": 127761000
+  },
+  {
+    "noc": "JPN",
+    "year": 2008,
+    "medals": 52,
+    "country": "Japan",
+    "gdp": 29.4,
+    "population": 128063000
+  },
+  {
+    "noc": "JPN",
+    "year": 2012,
+    "medals": 91,
+    "country": "Japan",
+    "gdp": 29.4,
+    "population": 127629000
+  },
+  {
+    "noc": "JPN",
+    "year": 2016,
+    "medals": 75,
+    "country": "Japan",
+    "gdp": 29.4,
+    "population": 126994511
+  },
+  {
+    "noc": "MEX",
+    "year": 1960,
+    "medals": 1,
+    "country": "Mexico",
+    "gdp": 25.7,
+    "population": 37771859
+  },
+  {
+    "noc": "MEX",
+    "year": 1964,
+    "medals": 1,
+    "country": "Mexico",
+    "gdp": 26,
+    "population": 42771079
+  },
+  {
+    "noc": "MEX",
+    "year": 1968,
+    "medals": 9,
+    "country": "Mexico",
+    "gdp": 26.3,
+    "population": 48431972
+  },
+  {
+    "noc": "MEX",
+    "year": 1972,
+    "medals": 1,
+    "country": "Mexico",
+    "gdp": 26.5,
+    "population": 54689943
+  },
+  {
+    "noc": "MEX",
+    "year": 1976,
+    "medals": 2,
+    "country": "Mexico",
+    "gdp": 26.7,
+    "population": 61242190
+  },
+  {
+    "noc": "MEX",
+    "year": 1980,
+    "medals": 10,
+    "country": "Mexico",
+    "gdp": 27,
+    "population": 67761372
+  },
+  {
+    "noc": "MEX",
+    "year": 1984,
+    "medals": 6,
+    "country": "Mexico",
+    "gdp": 27.1,
+    "population": 74352631
+  },
+  {
+    "noc": "MEX",
+    "year": 1988,
+    "medals": 2,
+    "country": "Mexico",
+    "gdp": 27.1,
+    "population": 80788721
+  },
+  {
+    "noc": "MEX",
+    "year": 1992,
+    "medals": 1,
+    "country": "Mexico",
+    "gdp": 27.3,
+    "population": 87075138
+  },
+  {
+    "noc": "MEX",
+    "year": 1996,
+    "medals": 1,
+    "country": "Mexico",
+    "gdp": 27.3,
+    "population": 93147044
+  },
+  {
+    "noc": "MEX",
+    "year": 2000,
+    "medals": 6,
+    "country": "Mexico",
+    "gdp": 27.5,
+    "population": 98899845
+  },
+  {
+    "noc": "MEX",
+    "year": 2004,
+    "medals": 4,
+    "country": "Mexico",
+    "gdp": 27.6,
+    "population": 104514932
+  },
+  {
+    "noc": "MEX",
+    "year": 2008,
+    "medals": 4,
+    "country": "Mexico",
+    "gdp": 27.7,
+    "population": 110815271
+  },
+  {
+    "noc": "MEX",
+    "year": 2012,
+    "medals": 24,
+    "country": "Mexico",
+    "gdp": 27.8,
+    "population": 117274155
+  },
+  {
+    "noc": "MEX",
+    "year": 2016,
+    "medals": 5,
+    "country": "Mexico",
+    "gdp": 27.9,
+    "population": 123333376
+  },
+  {
+    "noc": "URS",
+    "year": 1960,
+    "medals": 211,
+    "country": "Russia",
+    "gdp": "#NUM!",
+    "population": 119897000
+  },
+  {
+    "noc": "URS",
+    "year": 1964,
+    "medals": 221,
+    "country": "Russia",
+    "gdp": "#NUM!",
+    "population": 125345000
+  },
+  {
+    "noc": "URS",
+    "year": 1968,
+    "medals": 229,
+    "country": "Russia",
+    "gdp": "#NUM!",
+    "population": 128928000
+  },
+  {
+    "noc": "URS",
+    "year": 1972,
+    "medals": 259,
+    "country": "Russia",
+    "gdp": "#NUM!",
+    "population": 131909000
+  },
+  {
+    "noc": "URS",
+    "year": 1976,
+    "medals": 342,
+    "country": "Russia",
+    "gdp": "#NUM!",
+    "population": 135147000
+  },
+  {
+    "noc": "URS",
+    "year": 1980,
+    "medals": 496,
+    "country": "Russia",
+    "gdp": "#NUM!",
+    "population": 139010000
+  },
+  {
+    "noc": "URS",
+    "year": 1984,
+    "medals": 56,
+    "country": "Russia",
+    "gdp": "#NUM!",
+    "population": 142745000
+  },
+  {
+    "noc": "URS",
+    "year": 1988,
+    "medals": 366,
+    "country": "Russia",
+    "gdp": "#NUM!",
+    "population": 146857000
+  },
+  {
+    "noc": "EUN",
+    "year": 1992,
+    "medals": 279,
+    "country": "Russia",
+    "gdp": 27.8,
+    "population": 148689000
+  },
+  {
+    "noc": "RUS",
+    "year": 1996,
+    "medals": 151,
+    "country": "Russia",
+    "gdp": 27.5,
+    "population": 148160042
+  },
+  {
+    "noc": "RUS",
+    "year": 2000,
+    "medals": 239,
+    "country": "Russia",
+    "gdp": 27.6,
+    "population": 146596557
+  },
+  {
+    "noc": "RUS",
+    "year": 2004,
+    "medals": 227,
+    "country": "Russia",
+    "gdp": 27.8,
+    "population": 144067054
+  },
+  {
+    "noc": "RUS",
+    "year": 2008,
+    "medals": 183,
+    "country": "Russia",
+    "gdp": 28.1,
+    "population": 142742350
+  },
+  {
+    "noc": "RUS",
+    "year": 2012,
+    "medals": 165,
+    "country": "Russia",
+    "gdp": 28.1,
+    "population": 143201676
+  },
+  {
+    "noc": "RUS",
+    "year": 2016,
+    "medals": 183,
+    "country": "Russia",
+    "gdp": 28.1,
+    "population": 144342396
+  },
+  {
+    "noc": "KSA",
+    "year": 1960,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": "#NUM!",
+    "population": 4086539
+  },
+  {
+    "noc": "KSA",
+    "year": 1964,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": "#NUM!",
+    "population": 4677298
+  },
+  {
+    "noc": "KSA",
+    "year": 1968,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": 25.06434894,
+    "population": 5387828
+  },
+  {
+    "noc": "KSA",
+    "year": 1972,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": 26,
+    "population": 6392970
+  },
+  {
+    "noc": "KSA",
+    "year": 1976,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": 26.4,
+    "population": 7802926
+  },
+  {
+    "noc": "KSA",
+    "year": 1980,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": 26.6,
+    "population": 9691476
+  },
+  {
+    "noc": "KSA",
+    "year": 1984,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": 26.2,
+    "population": 12418834
+  },
+  {
+    "noc": "KSA",
+    "year": 1988,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": 26.3,
+    "population": 15070082
+  },
+  {
+    "noc": "KSA",
+    "year": 1992,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": 26.6,
+    "population": 17282691
+  },
+  {
+    "noc": "KSA",
+    "year": 1996,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": 26.6,
+    "population": 19033845
+  },
+  {
+    "noc": "KSA",
+    "year": 2000,
+    "medals": 2,
+    "country": "Saudi Arabia",
+    "gdp": 26.7,
+    "population": 20663843
+  },
+  {
+    "noc": "KSA",
+    "year": 2004,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": 26.8,
+    "population": 23132682
+  },
+  {
+    "noc": "KSA",
+    "year": 2008,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": 27,
+    "population": 25888541
+  },
+  {
+    "noc": "KSA",
+    "year": 2012,
+    "medals": 4,
+    "country": "Saudi Arabia",
+    "gdp": 27.1,
+    "population": 29155187
+  },
+  {
+    "noc": "KSA",
+    "year": 2016,
+    "medals": 0,
+    "country": "Saudi Arabia",
+    "gdp": 27.3,
+    "population": 32442572
+  },
+  {
+    "noc": "RSA",
+    "year": 1960,
+    "medals": 3,
+    "country": "South Africa",
+    "gdp": 25.0936115,
+    "population": 17099840
+  },
+  {
+    "noc": "RSA",
+    "year": 1992,
+    "medals": 3,
+    "country": "South Africa",
+    "gdp": 26.1,
+    "population": 38672607
+  },
+  {
+    "noc": "RSA",
+    "year": 1996,
+    "medals": 5,
+    "country": "South Africa",
+    "gdp": 26.2,
+    "population": 42241011
+  },
+  {
+    "noc": "RSA",
+    "year": 2000,
+    "medals": 5,
+    "country": "South Africa",
+    "gdp": 26.3,
+    "population": 44967708
+  },
+  {
+    "noc": "RSA",
+    "year": 2004,
+    "medals": 10,
+    "country": "South Africa",
+    "gdp": 26.4,
+    "population": 47291610
+  },
+  {
+    "noc": "RSA",
+    "year": 2008,
+    "medals": 1,
+    "country": "South Africa",
+    "gdp": 26.6,
+    "population": 49779471
+  },
+  {
+    "noc": "RSA",
+    "year": 2012,
+    "medals": 9,
+    "country": "South Africa",
+    "gdp": 26.7,
+    "population": 52834005
+  },
+  {
+    "noc": "RSA",
+    "year": 2016,
+    "medals": 23,
+    "country": "South Africa",
+    "gdp": 26.8,
+    "population": 56203654
+  },
+  {
+    "noc": "KOR",
+    "year": 1960,
+    "medals": 0,
+    "country": "South Korea",
+    "gdp": 23.88531714,
+    "population": 25012374
+  },
+  {
+    "noc": "KOR",
+    "year": 1964,
+    "medals": 3,
+    "country": "South Korea",
+    "gdp": 24.16785323,
+    "population": 27984155
+  },
+  {
+    "noc": "KOR",
+    "year": 1968,
+    "medals": 2,
+    "country": "South Korea",
+    "gdp": 24.56154298,
+    "population": 30838302
+  },
+  {
+    "noc": "KOR",
+    "year": 1972,
+    "medals": 1,
+    "country": "South Korea",
+    "gdp": 24.9610961,
+    "population": 33505406
+  },
+  {
+    "noc": "KOR",
+    "year": 1976,
+    "medals": 17,
+    "country": "South Korea",
+    "gdp": 25.4,
+    "population": 35848523
+  },
+  {
+    "noc": "KOR",
+    "year": 1980,
+    "medals": 0,
+    "country": "South Korea",
+    "gdp": 25.7,
+    "population": 38123775
+  },
+  {
+    "noc": "KOR",
+    "year": 1984,
+    "medals": 41,
+    "country": "South Korea",
+    "gdp": 26,
+    "population": 40405956
+  },
+  {
+    "noc": "KOR",
+    "year": 1988,
+    "medals": 77,
+    "country": "South Korea",
+    "gdp": 26.5,
+    "population": 42031247
+  },
+  {
+    "noc": "KOR",
+    "year": 1992,
+    "medals": 56,
+    "country": "South Korea",
+    "gdp": 26.8,
+    "population": 43747962
+  },
+  {
+    "noc": "KOR",
+    "year": 1996,
+    "medals": 75,
+    "country": "South Korea",
+    "gdp": 27.1,
+    "population": 45524681
+  },
+  {
+    "noc": "KOR",
+    "year": 2000,
+    "medals": 85,
+    "country": "South Korea",
+    "gdp": 27.3,
+    "population": 47008111
+  },
+  {
+    "noc": "KOR",
+    "year": 2004,
+    "medals": 59,
+    "country": "South Korea",
+    "gdp": 27.5,
+    "population": 48082519
+  },
+  {
+    "noc": "KOR",
+    "year": 2008,
+    "medals": 97,
+    "country": "South Korea",
+    "gdp": 27.7,
+    "population": 49054708
+  },
+  {
+    "noc": "KOR",
+    "year": 2012,
+    "medals": 79,
+    "country": "South Korea",
+    "gdp": 27.8,
+    "population": 50199853
+  },
+  {
+    "noc": "KOR",
+    "year": 2016,
+    "medals": 40,
+    "country": "South Korea",
+    "gdp": 27.9,
+    "population": 51217803
+  },
+  {
+    "noc": "TUR",
+    "year": 1960,
+    "medals": 9,
+    "country": "Turkey",
+    "gdp": 25.19176707,
+    "population": 27472345
+  },
+  {
+    "noc": "TUR",
+    "year": 1964,
+    "medals": 6,
+    "country": "Turkey",
+    "gdp": 25.4,
+    "population": 30244261
+  },
+  {
+    "noc": "TUR",
+    "year": 1968,
+    "medals": 2,
+    "country": "Turkey",
+    "gdp": 25.6,
+    "population": 33256464
+  },
+  {
+    "noc": "TUR",
+    "year": 1972,
+    "medals": 1,
+    "country": "Turkey",
+    "gdp": 25.8,
+    "population": 36587261
+  },
+  {
+    "noc": "TUR",
+    "year": 1976,
+    "medals": 0,
+    "country": "Turkey",
+    "gdp": 26.1,
+    "population": 40189567
+  },
+  {
+    "noc": "TUR",
+    "year": 1980,
+    "medals": 0,
+    "country": "Turkey",
+    "gdp": 26.1,
+    "population": 43975971
+  },
+  {
+    "noc": "TUR",
+    "year": 1984,
+    "medals": 3,
+    "country": "Turkey",
+    "gdp": 26.3,
+    "population": 48114155
+  },
+  {
+    "noc": "TUR",
+    "year": 1988,
+    "medals": 2,
+    "country": "Turkey",
+    "gdp": 26.5,
+    "population": 52053765
+  },
+  {
+    "noc": "TUR",
+    "year": 1992,
+    "medals": 6,
+    "country": "Turkey",
+    "gdp": 26.7,
+    "population": 55748948
+  },
+  {
+    "noc": "TUR",
+    "year": 1996,
+    "medals": 6,
+    "country": "Turkey",
+    "gdp": 26.9,
+    "population": 59423282
+  },
+  {
+    "noc": "TUR",
+    "year": 2000,
+    "medals": 5,
+    "country": "Turkey",
+    "gdp": 27,
+    "population": 63240194
+  },
+  {
+    "noc": "TUR",
+    "year": 2004,
+    "medals": 11,
+    "country": "Turkey",
+    "gdp": 27.1,
+    "population": 67010930
+  },
+  {
+    "noc": "TUR",
+    "year": 2008,
+    "medals": 7,
+    "country": "Turkey",
+    "gdp": 27.3,
+    "population": 70418604
+  },
+  {
+    "noc": "TUR",
+    "year": 2012,
+    "medals": 5,
+    "country": "Turkey",
+    "gdp": 27.5,
+    "population": 74653016
+  },
+  {
+    "noc": "TUR",
+    "year": 2016,
+    "medals": 8,
+    "country": "Turkey",
+    "gdp": 27.7,
+    "population": 79821724
+  },
+  {
+    "noc": "GBR",
+    "year": 1960,
+    "medals": 28,
+    "country": "UK",
+    "gdp": 27.3,
+    "population": 52400000
+  },
+  {
+    "noc": "GBR",
+    "year": 1964,
+    "medals": 30,
+    "country": "UK",
+    "gdp": 27.5,
+    "population": 54000000
+  },
+  {
+    "noc": "GBR",
+    "year": 1968,
+    "medals": 19,
+    "country": "UK",
+    "gdp": 27.6,
+    "population": 55211700
+  },
+  {
+    "noc": "GBR",
+    "year": 1972,
+    "medals": 29,
+    "country": "UK",
+    "gdp": 27.7,
+    "population": 56086065
+  },
+  {
+    "noc": "GBR",
+    "year": 1976,
+    "medals": 33,
+    "country": "UK",
+    "gdp": 27.7,
+    "population": 56211968
+  },
+  {
+    "noc": "GBR",
+    "year": 1980,
+    "medals": 48,
+    "country": "UK",
+    "gdp": 27.8,
+    "population": 56314216
+  },
+  {
+    "noc": "GBR",
+    "year": 1984,
+    "medals": 73,
+    "country": "UK",
+    "gdp": 27.9,
+    "population": 56422072
+  },
+  {
+    "noc": "GBR",
+    "year": 1988,
+    "medals": 54,
+    "country": "UK",
+    "gdp": 28.1,
+    "population": 56928327
+  },
+  {
+    "noc": "GBR",
+    "year": 1992,
+    "medals": 50,
+    "country": "UK",
+    "gdp": 28.1,
+    "population": 57580402
+  },
+  {
+    "noc": "GBR",
+    "year": 1996,
+    "medals": 29,
+    "country": "UK",
+    "gdp": 28.2,
+    "population": 58166950
+  },
+  {
+    "noc": "GBR",
+    "year": 2000,
+    "medals": 58,
+    "country": "UK",
+    "gdp": 28.4,
+    "population": 58892514
+  },
+  {
+    "noc": "GBR",
+    "year": 2004,
+    "medals": 63,
+    "country": "UK",
+    "gdp": 28.5,
+    "population": 59987905
+  },
+  {
+    "noc": "GBR",
+    "year": 2008,
+    "medals": 82,
+    "country": "UK",
+    "gdp": 28.6,
+    "population": 61806995
+  },
+  {
+    "noc": "GBR",
+    "year": 2012,
+    "medals": 127,
+    "country": "UK",
+    "gdp": 28.6,
+    "population": 63700215
+  },
+  {
+    "noc": "GBR",
+    "year": 2016,
+    "medals": 155,
+    "country": "UK",
+    "gdp": 28.7,
+    "population": 65611593
+  },
+  {
+    "noc": "USA",
+    "year": 1960,
+    "medals": 152,
+    "country": "USA",
+    "gdp": 28.8,
+    "population": 180671000
+  },
+  {
+    "noc": "USA",
+    "year": 1964,
+    "medals": 177,
+    "country": "USA",
+    "gdp": 29,
+    "population": 191889000
+  },
+  {
+    "noc": "USA",
+    "year": 1968,
+    "medals": 173,
+    "country": "USA",
+    "gdp": 29.2,
+    "population": 200706000
+  },
+  {
+    "noc": "USA",
+    "year": 1972,
+    "medals": 195,
+    "country": "USA",
+    "gdp": 29.3,
+    "population": 209896000
+  },
+  {
+    "noc": "USA",
+    "year": 1976,
+    "medals": 175,
+    "country": "USA",
+    "gdp": 29.4,
+    "population": 218035000
+  },
+  {
+    "noc": "USA",
+    "year": 1980,
+    "medals": 30,
+    "country": "USA",
+    "gdp": 29.5,
+    "population": 227225000
+  },
+  {
+    "noc": "USA",
+    "year": 1984,
+    "medals": 361,
+    "country": "USA",
+    "gdp": 29.6,
+    "population": 235825000
+  },
+  {
+    "noc": "USA",
+    "year": 1988,
+    "medals": 214,
+    "country": "USA",
+    "gdp": 29.8,
+    "population": 244499000
+  },
+  {
+    "noc": "USA",
+    "year": 1992,
+    "medals": 238,
+    "country": "USA",
+    "gdp": 29.9,
+    "population": 256514000
+  },
+  {
+    "noc": "USA",
+    "year": 1996,
+    "medals": 278,
+    "country": "USA",
+    "gdp": 30,
+    "population": 269394000
+  },
+  {
+    "noc": "USA",
+    "year": 2000,
+    "medals": 276,
+    "country": "USA",
+    "gdp": 30.2,
+    "population": 282162411
+  },
+  {
+    "noc": "USA",
+    "year": 2004,
+    "medals": 347,
+    "country": "USA",
+    "gdp": 30.3,
+    "population": 292805298
+  },
+  {
+    "noc": "USA",
+    "year": 2008,
+    "medals": 369,
+    "country": "USA",
+    "gdp": 30.3,
+    "population": 304093966
+  },
+  {
+    "noc": "USA",
+    "year": 2012,
+    "medals": 345,
+    "country": "USA",
+    "gdp": 30.4,
+    "population": 313830990
+  },
+  {
+    "noc": "USA",
+    "year": 2016,
+    "medals": 328,
+    "country": "USA",
+    "gdp": 30.5,
+    "population": 322941311
+  }
+]
