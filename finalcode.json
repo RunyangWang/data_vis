@@ -1,0 +1,396 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "Relation of GDP and medals by country and year.",
+  "width": 800,
+  "height": 600,
+  "title": {
+    "text": "The relation between GDP and number of madals reflected by Summer Olympics from 1960 to 2016",
+    "frame": "group"
+  },
+  "padding": 5,
+
+  "data": [
+    {
+      "name": "gapminder",
+      "url": "https://raw.githubusercontent.com/RunyangWang/data_vis/master/medal%20gdp.json"
+    },
+    {
+      "name": "country_timeline",
+      "source": "gapminder",
+      "transform": [
+        {"type": "filter", "expr": "timeline && datum.country == timeline.country"},
+        {"type": "collect", "sort": {"field": "year"}}
+      ]
+    },
+    {
+      "name": "thisYear",
+      "source": "gapminder",
+      "transform": [
+        {"type": "filter", "expr": "datum.year == currentYear"}
+      ]
+    },
+    {
+      "name": "prevYear",
+      "source": "gapminder",
+      "transform": [
+        {"type": "filter", "expr": "datum.year == currentYear - stepYear"}
+      ]
+    },
+    {
+      "name": "nextYear",
+      "source": "gapminder",
+      "transform": [
+        {"type": "filter", "expr": "datum.year == currentYear + stepYear"}
+      ]
+    },
+    {
+      "name": "countries",
+      "source": "gapminder",
+      "transform": [
+        {"type": "aggregate", "groupby": ["country"]}
+      ]
+    },
+    {
+      "name": "interpolate",
+      "source": "countries",
+      "transform": [
+        {
+          "type": "lookup",
+          "from": "thisYear", "key": "country",
+          "fields": ["country"], "as": ["this"],
+          "default": {}
+        },
+        {
+          "type": "lookup",
+          "from": "prevYear", "key": "country",
+          "fields": ["country"], "as": ["prev"],
+          "default": {}
+        },
+        {
+          "type": "lookup",
+          "from": "nextYear", "key": "country",
+          "fields": ["country"], "as": ["next"],
+          "default": {}
+        },
+        {
+          "type": "formula",
+          "as": "target_gdp",
+          "expr": "interYear > currentYear ? datum.next.gdp : (datum.prev.gdp||datum.this.gdp)"
+        },
+        {
+          "type": "formula",
+          "as": "target_medals",
+          "expr": "interYear > currentYear ? datum.next.medals : (datum.prev.medals||datum.this.medals)"
+        },
+        {
+          "type": "formula",
+          "as": "inter_gdp",
+          "expr": "interYear==2012 ? datum.this.gdp : datum.this.gdp + (datum.target_gdp-datum.this.gdp) * abs(interYear-datum.this.year)/4"
+        },
+        {
+          "type": "formula",
+          "as": "inter_medals",
+          "expr": "interYear==2012 ? datum.this.medals : datum.this.medals + (datum.target_medals-datum.this.medals) * abs(interYear-datum.this.year)/4"
+        }
+      ]
+    },
+    {
+      "name": "trackCountries",
+      "on": [
+        {"trigger": "active", "toggle": "{country: active.country}"}
+      ]
+    }
+  ],
+
+  "signals": [
+    { "name": "minYear", "value": 1960 },
+    { "name": "maxYear", "value": 2016 },
+    { "name": "stepYear", "value": 4 },
+    {
+      "name": "active",
+      "value": {},
+      "on": [
+        {"events": "@point:mousedown, @point:touchstart", "update": "datum"},
+        {"events": "window:mouseup, window:touchend", "update": "{}"}
+      ]
+    },
+    { "name": "isActive", "update": "active.country" },
+    {
+      "name": "timeline",
+      "value": {},
+      "on": [
+        {"events": "@point:mouseover", "update": "isActive ? active : datum"},
+        {"events": "@point:mouseout", "update": "active"},
+        {"events": {"signal": "active"}, "update": "active"}
+      ]
+    },
+    {
+      "name": "tX",
+      "on": [{
+        "events": "mousemove!, touchmove!",
+        "update": "isActive ? scale('x', active.this.gdp) : tX"
+      }]
+    },
+    {
+      "name": "tY",
+      "on": [{
+        "events": "mousemove, touchmove",
+        "update": "isActive ? scale('y', active.this.medals) : tY"
+      }]
+    },
+    {
+      "name": "pX",
+      "on": [{
+        "events": "mousemove, touchmove",
+        "update": "isActive ? scale('x', active.prev.gdp) : pX"
+      }]
+    },
+    {
+      "name": "pY",
+      "on": [{
+        "events": "mousemove, touchmove",
+        "update": "isActive ? scale('y', active.prev.medals) : pY"
+      }]
+    },
+    {
+      "name": "nX",
+      "on": [{
+        "events": "mousemove, touchmove",
+        "update": "isActive ? scale('x', active.next.gdp) : nX"
+      }]
+    },
+    {
+      "name": "nY",
+      "on": [{
+        "events": "mousemove, touchmove",
+        "update": "isActive ? scale('y', active.next.medals) : nY"
+      }]
+    },
+    {
+      "name": "thisDist",
+      "value": 0,
+      "on":[{
+        "events": "mousemove, touchmove",
+        "update": "isActive ? sqrt(pow(x()-tX, 2) + pow(y()-tY, 2)) : thisDist"
+      }]
+    },
+    {
+      "name": "prevDist",
+      "value": 0,
+      "on":[{
+        "events": "mousemove, touchmove",
+        "update": "isActive ? sqrt(pow(x()-pX, 2) + pow(y()-pY, 2)): prevDist"
+      }]
+    },
+    {
+      "name": "nextDist",
+      "value": 0,
+      "on":[{
+        "events": "mousemove, touchmove",
+        "update": "isActive ? sqrt(pow(x()-nX, 2) + pow(y()-nY, 2)) : nextDist"
+      }]
+    },
+    {
+      "name": "prevScore",
+      "value": 0,
+      "on": [{
+        "events": "mousemove, touchmove",
+        "update": "isActive ? ((pX-tX) * (x()-tX) + (pY-tY) * (y()-tY))/prevDist || -999999 : prevScore"
+      }]
+    },
+    {
+      "name": "nextScore",
+      "value": 0,
+      "on": [{
+        "events": "mousemove, touchmove",
+        "update": "isActive ? ((nX-tX) * (x()-tX) + (nY-tY) * (y()-tY))/nextDist || -999999 : nextScore"
+      }]
+    },
+    {
+      "name": "interYear",
+      "value": 1980,
+      "on": [{
+        "events": "mousemove, touchmove",
+        "update": "isActive ? (min(maxYear, currentYear+4, max(minYear, currentYear-4, prevScore > nextScore ? (currentYear - 2*prevScore/sqrt(pow(pX-tX, 2) + pow(pY-tY, 2))) : (currentYear + 2*nextScore/sqrt(pow(nX-tX, 2) + pow(nY-tY, 2)))))) : interYear"
+      }]
+    },
+    {
+      "name": "currentYear",
+      "value": 1980,
+      "on":[{
+        "events": "mousemove, touchmove",
+        "update": "isActive ? (min(maxYear, max(minYear, prevScore > nextScore ? (thisDist < prevDist ? currentYear : currentYear-4) : (thisDist < nextDist ? currentYear : currentYear+4)))) : currentYear"
+      }]
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "x",
+      "type": "linear", "nice": true,
+      "domain": {"data": "gapminder", "field": "gdp"},
+      "range": "width"
+    },
+    {
+      "name": "y",
+      "type": "linear", "nice": true, "zero": false,
+      "domain": {"data": "gapminder", "field": "medals"},
+      "range": "height"
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "gapminder", "field": "country"},
+      "range": "category"
+    },
+    {
+      "name": "label",
+      "type": "ordinal",
+      "domain": {"data": "gapminder", "field": "country"},
+      "range": {"data": "gapminder", "field": "country"}
+    },
+    {
+      "name": "size",
+      "type": "linear",
+      "round": true,
+      "nice": false,
+      "zero": true,
+      "domain": {"data": "gapminder", "field": "population"},
+      "range": [150,500]
+    }
+  ],
+
+  "axes": [
+    {
+      "title": "GDP in constant 2010 USD billion",
+      "orient": "bottom", "scale": "x",
+      "grid": true, "tickCount": 5
+    },
+    {
+      "title": "Medals earned",
+      "orient": "left", "scale": "y",
+      "grid": true, "tickCount": 5
+    }
+  ],
+
+  "legends": [
+    {
+      "fill": "color",
+      "title": "Country",
+      "orient": "right",
+      "encode": {
+        "symbols": {
+          "enter": {
+            "fillOpacity": {"value": 0.5}
+          }
+        },
+        "labels": {
+          "update": {
+            "text": {"scale": "label", "field": "value"}
+          }
+        }
+      }
+    },
+    {
+      "size": "size",
+      "title": "Population",
+      "format": "s",
+      "symbolStrokeColor": "#4682b4",
+      "symbolStrokeWidth": 2,
+      "symbolOpacity": 0.5,
+      "symbolType": "circle"
+    }
+  ],
+
+  "marks": [
+    {
+      "type": "text",
+      "encode": {
+        "update": {
+          "text": {"signal": "currentYear"},
+          "x": {"value": 300},
+          "y": {"value": 300},
+          "fill": {"value": "grey"},
+          "fillOpacity": {"value": 0.25},
+          "fontSize": {"value": 100}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {"data": "country_timeline"},
+      "interactive": false,
+      "encode": {
+        "enter": {
+          "x": {"scale": "x", "field": "gdp", "offset": 5},
+          "y": {"scale": "y", "field": "medals"},
+          "fill": {"value": "#555"},
+          "fillOpacity": {"value": 0.6},
+          "text": {"field": "year"}
+        }
+      }
+    },
+    {
+      "type": "line",
+      "from": {"data": "country_timeline"},
+      "encode": {
+        "update": {
+          "x": {"scale": "x", "field": "gdp"},
+          "y": {"scale": "y", "field": "medals"},
+          "stroke": {"value": "#bbb"},
+          "strokeWidth": {"value": 5},
+          "strokeOpacity": {"value": 0.5}
+        }
+      }
+    },
+    {
+      "name": "point",
+      "type": "symbol",
+      "from": {"data": "interpolate"},
+      "encode": {
+        "enter": {
+          "fill": {"scale": "color", "field": "this.country"},
+          "size": {"value": 150}
+        },
+        "update": {
+          "x": {"scale": "x", "field": "inter_gdp"},
+          "y": {"scale": "y", "field": "inter_medals"},
+          "size": {"scale": "size", "field": "this.population"},
+          "fillOpacity": [
+            {
+              "test": "datum.country==timeline.country || indata('trackCountries', 'country', datum.country)",
+              "value": 1
+            },
+            {"value": 0.5}
+          ]
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {"data": "interpolate"},
+      "interactive": false,
+      "encode": {
+        "enter": {
+          "fill": {"value": "#333"},
+          "fontSize": {"value": 14},
+          "fontWeight": {"value": "bold"},
+          "text": {"field": "country"},
+          "align": {"value": "center"},
+          "baseline": {"value": "bottom"}
+        },
+        "update": {
+          "x": {"scale": "x", "field": "inter_gdp"},
+          "y": {"scale": "y", "field": "inter_medals", "offset": -7},
+          "fillOpacity": [
+            {
+              "test": "datum.country==timeline.country || indata('trackCountries', 'country', datum.country)",
+              "value": 0.8
+            },
+            {"value": 0}
+          ]
+        }
+      }
+    }
+  ]
+}
